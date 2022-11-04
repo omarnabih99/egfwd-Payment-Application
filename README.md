@@ -1,5 +1,5 @@
 # Payment-Application
-C project in Embedded Systems Professional Track provided by Udacity and EGY FWD
+C project in Embedded Systems Professional Track provided by Udacity and egfwd
 
 • Payment systems are now available everywhere and everyone interacts with these systems every day.
 
