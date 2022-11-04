@@ -32,3 +32,10 @@ C project in Embedded Systems Professional Track provided by `Udacity` and `egfw
 
 ### Server Module
 No constraints on input data.
+
+## File Structue
+-Modular Programming is applied in the project
+
+-The image below shows the project file structure.
+
+![Screenshot 2022-09-19 052032](https://user-images.githubusercontent.com/70335125/200058644-362c5da4-4539-4cdc-af82-5c70c283d927.png)
