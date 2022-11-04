@@ -1,5 +1,5 @@
 # Payment-Application
-C project in Embedded Systems Professional Track provided by `Udacity` and `egfwd`
+C project in Embedded Systems Professional Track provided by `Udacity` and `egfwd`. The project is developed using `Microsoft Visual Studio`.
 
 ## System Description
 -Payment systems are now available everywhere and everyone interacts with these systems every day.
